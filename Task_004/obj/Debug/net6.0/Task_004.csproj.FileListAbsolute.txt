@@ -1,0 +1,15 @@
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.csproj.AssemblyReference.cache
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.AssemblyInfoInputs.cache
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.AssemblyInfo.cs
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.csproj.CoreCompileInputs.cache
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\bin\Debug\net6.0\Task_004.exe
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\bin\Debug\net6.0\Task_004.deps.json
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\bin\Debug\net6.0\Task_004.runtimeconfig.json
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\bin\Debug\net6.0\Task_004.dll
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\bin\Debug\net6.0\Task_004.pdb
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.dll
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\refint\Task_004.dll
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.pdb
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\Task_004.genruntimeconfig.cache
+C:\Users\mikam\OneDrive\Рабочий стол\Geekbrains\Homework\2.1.Урок 1. Знакомство с языком C#\2.1.HWC\Task_004\obj\Debug\net6.0\ref\Task_004.dll
